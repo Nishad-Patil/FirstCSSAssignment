@@ -1,0 +1,14 @@
+p{
+    height: 200px;
+    width: 400px;
+    font-size: 17px;
+}
+.paragraph_1{
+    background: #457245;
+}
+.paragraph_2{
+    background: #588c9c;
+}
+.paragraph_3{
+    background: #cc6d40;
+}

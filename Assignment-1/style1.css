@@ -1,0 +1,18 @@
+/* Accessing by class selector */
+.div{
+    height: 100px;
+    width: 700px;
+    background-color: #00ffff;
+}
+/* accessing by id selector */
+#div-2{
+    background-color: #7de22b;
+}
+/* Accessing by element selector */
+div p{
+    color: #d2691e;
+}
+/* Targeting same element by all types */
+.div-3{
+    font-size: x-large;
+}

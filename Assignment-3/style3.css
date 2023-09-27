@@ -1,0 +1,31 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+   font-family: 'Roboto', sans-serif;
+   font-family: 'Poppins', sans-serif;
+   
+}
+body{
+   background: rgb(56, 59, 59);
+}
+body form{
+   background-color: #d14040;
+   border-radius: 24px;
+   text-align: center;
+   width: 500px;
+}
+form h1{
+   font-size: 40px;
+}
+form input{
+   background-color: aqua;
+   border-radius: 5px;
+   border: none;
+}
+input[type=color]{
+   opacity: .2;
+}
+
+
+
+
